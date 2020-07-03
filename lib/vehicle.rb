@@ -13,7 +13,7 @@ class Vehicle
   end
   
   def fill_up_tank
-    "filiing up!"
+    "filling up!"
   end
   
 end
